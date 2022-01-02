@@ -295,6 +295,11 @@ a {
 }
 
 /* item */
+.cv-section-contacts {
+  margin: 0;
+  padding: 0;
+}
+
 .cv-section-item {
   display: flex;
 }
