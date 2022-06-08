@@ -3,6 +3,7 @@
 - **Location**: Russia, Moscow Region
 - **GitHub**: [ipipka](https://github.com/ipipka)
 - **E-mail**: ya-pipka@ya.ru
+- **Discord**: @ipipka#2017
 
 #### About Me
 I am about 30 years old :)
